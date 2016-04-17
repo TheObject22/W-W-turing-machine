@@ -1,0 +1,4 @@
+
+import sys
+turingString = input('Enter a string of the form w#w')
+print turingString
